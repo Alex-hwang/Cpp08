@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2022\\\u9879\u76EE\\C\u002B\u002B-8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4CF700-9C28-4575-912B-B599F12757EE}|C\u002B\u002B-8.vcxproj|D:\\2022\\\u9879\u76EE\\C\u002B\u002B-8\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E4CF700-9C28-4575-912B-B599F12757EE}|C\u002B\u002B-8.vcxproj|solutionrelative:03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4CF700-9C28-4575-912B-B599F12757EE}|C\u002B\u002B-8.vcxproj|D:\\2022\\\u9879\u76EE\\C\u002B\u002B-8\\01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E4CF700-9C28-4575-912B-B599F12757EE}|C\u002B\u002B-8.vcxproj|solutionrelative:01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01.cpp",
+              "DocumentMoniker": "D:\\2022\\\u9879\u76EE\\C\u002B\u002B-8\\01.cpp",
+              "RelativeDocumentMoniker": "01.cpp",
+              "ToolTip": "D:\\2022\\\u9879\u76EE\\C\u002B\u002B-8\\01.cpp",
+              "RelativeToolTip": "01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T09:10:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03.cpp",
+              "DocumentMoniker": "D:\\2022\\\u9879\u76EE\\C\u002B\u002B-8\\03.cpp",
+              "RelativeDocumentMoniker": "03.cpp",
+              "ToolTip": "D:\\2022\\\u9879\u76EE\\C\u002B\u002B-8\\03.cpp",
+              "RelativeToolTip": "03.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T09:08:52.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

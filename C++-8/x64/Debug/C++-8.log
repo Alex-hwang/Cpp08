@@ -1,0 +1,4 @@
+﻿  03.cpp
+D:\2022\项目\C++-8\03.cpp(36,26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\2022\项目\C++-8\03.cpp(40,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  C++-8.vcxproj -> D:\2022\项目\C++-8\x64\Debug\C++-8.exe
